@@ -1,2 +1,2 @@
-\# TP de Modelizado de IA
+# TP de Modelizado de IA
 
